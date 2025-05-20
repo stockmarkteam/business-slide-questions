@@ -1,0 +1,1542 @@
+[
+  {
+    "question_id": 0,
+    "image type": "テキスト",
+    "image": "000ef93d430a2cbf484fa1577419bd709609cb5bede5627365e2e107a079cdc3_page_003.png",
+    "question": "令和6年度1月判断では、総括判断はどのようになっていますか。",
+    "answer": "10地域で据え置きとなりました。"
+  },
+  {
+    "question_id": 1,
+    "image type": "表",
+    "image": "000ef93d430a2cbf484fa1577419bd709609cb5bede5627365e2e107a079cdc3_page_004.png",
+    "question": "今回の調査で、生産活動が前回と比較して上方修正された地域はどこですか。",
+    "answer": "中国地方です。"
+  },
+  {
+    "question_id": 2,
+    "image type": "棒グラフ",
+    "image": "ab601a26e1926768f168fec0699f1a162c43aa2a818b6628dc42c951d5ea3c79_page_012.png",
+    "question": "人口10万人未満の構想区域において、小児入院管理料・新生児集中治療室管理料等の診療実績が最も多いのは何件から何件ですか。",
+    "answer": "月に101〜150件が最も割合が多くなっています。"
+  },
+  {
+    "question_id": 3,
+    "image type": "その他",
+    "image": "ab601a26e1926768f168fec0699f1a162c43aa2a818b6628dc42c951d5ea3c79_page_017.png",
+    "question": "外れ値が最も多いのはどの項目ですか。",
+    "answer": "救急車の受け入れ台数です。"
+  },
+  {
+    "question_id": 4,
+    "image type": "円グラフ",
+    "image": "c4141102251e1b25b7cc8e9a49101f98d93428da324997539ce68d686623b315_page_006.png",
+    "question": "回答企業のうち、3番目に多い業種は何ですか。",
+    "answer": "電機・電子で13.0%です。"
+  },
+  {
+    "question_id": 5,
+    "image type": "表",
+    "image": "c4141102251e1b25b7cc8e9a49101f98d93428da324997539ce68d686623b315_page_008.png",
+    "question": "生産の海外現地法人を1社以上保有している国のうち、割合が2番目に多い国はどこですか。",
+    "answer": "タイで46.3%です。"
+  },
+  {
+    "question_id": 6,
+    "image type": "折れ線グラフ",
+    "image": "c4141102251e1b25b7cc8e9a49101f98d93428da324997539ce68d686623b315_page_025.png",
+    "question": "ベトナムが有望国上位である理由として2011年以降で最も割合の高いのは何ですか。",
+    "answer": "現地マーケットの今後の成長性で、2021年度には74.0%を占めています。"
+  },
+  {
+    "question_id": 7,
+    "image type": "棒グラフ",
+    "image": "c4141102251e1b25b7cc8e9a49101f98d93428da324997539ce68d686623b315_page_045.png",
+    "question": "先進的企業の中で、DXの取り組み分野として2番目に多いものは何ですか。",
+    "answer": "製品開発・研究における仮想空間の活用で69%となっています。"
+  },
+  {
+    "question_id": 8,
+    "image type": "棒グラフ",
+    "image": "c4141102251e1b25b7cc8e9a49101f98d93428da324997539ce68d686623b315_page_046.png",
+    "question": "DXを推進する人材の不足を感じているのは大企業と中堅・中小企業ではどちらが割合が高いですか。",
+    "answer": "大企業では74.5%、中堅・中小企業では77.5%と中堅・中小企業の方が割合が高くなっています。"
+  },
+  {
+    "question_id": 9,
+    "image type": "表",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_004.png",
+    "question": "合計の回収率はいくつですか。",
+    "answer": "20％です。"
+  },
+  {
+    "question_id": 10,
+    "image type": "表",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_004.png",
+    "question": "水道事業の定義は何ですか。",
+    "answer": "給水人口が5,000人超の水道事業です。"
+  },
+  {
+    "question_id": 11,
+    "image type": "テキスト",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_005.png",
+    "question": "給水人口1万人以上5万人未満はどの区分に分類されていますか。",
+    "answer": "中規模-1です。"
+  },
+  {
+    "question_id": 12,
+    "image type": "棒グラフ",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_006.png",
+    "question": "アンケート回答率が最も高かったのはどの給水人口区分ですか。",
+    "answer": "大規模区分で、58.8%です。"
+  },
+  {
+    "question_id": 13,
+    "image type": "積み上げ棒グラフ",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_008.png",
+    "question": "水道情報活用システムの認知度について、最も割合が高いのはどういう人ですか。",
+    "answer": "「知っているが導入の検討はしたことがない」という人です。"
+  },
+  {
+    "question_id": 14,
+    "image type": "積み上げ棒グラフ",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_009.png",
+    "question": "「6. 業務効率化」に対する「あまり期待せず＋期待せず」の回答は何割ですか。",
+    "answer": "6.1%です。"
+  },
+  {
+    "question_id": 15,
+    "image type": "画像",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_013.png",
+    "question": "アンケート調査において、最も回答の割合が高かった項目はどれですか。",
+    "answer": "具体的な事例を知りたいの87%です。"
+  },
+  {
+    "question_id": 16,
+    "image type": "その他",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_016.png",
+    "question": "スマートメーターを導入し料金徴収を効率化することが主に活用される業務、または新しいサービスは何ですか。",
+    "answer": "料金徴収の高度化・効率化です。"
+  },
+  {
+    "question_id": 17,
+    "image type": "表",
+    "image": "00b2e78b9a93af7b43521cf3eb38d116721d53727e0595ca598fbc73883a07d9_page_017.png",
+    "question": "最も期待度が高いユースケースは何ですか。",
+    "answer": "「劣化予測（管路）」です。"
+  },
+  {
+    "question_id": 18,
+    "image type": "表",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_004.png",
+    "question": "リーグ・クラブの運営の主なスポーツコンテンツは何ですか。",
+    "answer": "放映権、スポンサー権、指導・アカデミー、観戦（会場）、代理・マネジメント、ファングッズ、選手です。"
+  },
+  {
+    "question_id": 19,
+    "image type": "画像",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_006.png",
+    "question": "クラブに入ってくるお金にはどんなものがありますか。",
+    "answer": "日本企業からはスポンサー権料、海外からは放映権料及びスポンサー権料、消費者からはファングッズ売り上げ及び観戦料が入ります。"
+  },
+  {
+    "question_id": 20,
+    "image type": "表",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_009.png",
+    "question": "肖像権のスポーツビジネスで特に論点になるケースは何ですか。",
+    "answer": "選手の氏名・肖像などを商品化または団体のPRに利用するケースです。"
+  },
+  {
+    "question_id": 21,
+    "image type": "円グラフ",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_010.png",
+    "question": "放映権料の割合が最も高いのはどのリーグですか。",
+    "answer": "Jリーグで放映権料の割合は66.2%となっています。"
+  },
+  {
+    "question_id": 22,
+    "image type": "画像",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_011.png",
+    "question": "映像コンテンツビジネスにおけるサプライチェーンには何がありますか。",
+    "answer": "撮影、編集、伝送、放送・配信、視聴の5つに分けられます。"
+  },
+  {
+    "question_id": 23,
+    "image type": "円グラフ",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_023.png",
+    "question": "国際交流基金はどのエリアに支援していますか。",
+    "answer": "全てアジアとなっています。"
+  },
+  {
+    "question_id": 24,
+    "image type": "その他",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_024.png",
+    "question": "経済発展状況が新興で、当該スポーツの認知度が低い国にはどのような支援が必要ですか。",
+    "answer": "主にJICAによる支援が必要となります。具体的には、施設・機器整備、運動習慣などの環境整備と、指導者育成、競技交流など認知度向上です。"
+  },
+  {
+    "question_id": 25,
+    "image type": "その他",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_025.png",
+    "question": "経済発展状況が先進で、当該スポーツの認知度が低いものはどのようにすればいいですか。",
+    "answer": "スポーツ・リーグ・クラブの認知度を向上させ、収益源化を目指すことです。"
+  },
+  {
+    "question_id": 26,
+    "image type": "その他",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_026.png",
+    "question": "認知度向上を図るのはどのスキームですか。",
+    "answer": "国際交流基金等です。"
+  },
+  {
+    "question_id": 27,
+    "image type": "その他",
+    "image": "00b69662121062fe5b93dca3b39018014a0ec4ab152c6862729a3295fc623b51_page_029.png",
+    "question": "スポーツ団体・民間企業の海外戦略検討のフローについて、全て整備されている場合の海外展開までの道筋を教えてください。",
+    "answer": "経済・当該スポーツの認知度・当該スポーツの優位性に関する基礎調査を実施し、経済の評価、当該スポーツの認知度の評価、当該スポーツの優位性の評価が全て整っていると判断された場合に市場（政治・経済・社会・スポーツ）や展開方法等の戦略の検討を行い、海外展開へと発展します。"
+  },
+  {
+    "question_id": 28,
+    "image type": "テキスト",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_006.png",
+    "question": "再エネの今後の取り組みはどのようなものですか。",
+    "answer": "太陽光については、2030年に現在の約2倍となる14~16%程度の導入を目指し、公共施設、住宅、工場・倉庫、空港、鉄道などへの太陽光パネルの設置を拡大します。"
+  },
+  {
+    "question_id": 29,
+    "image type": "画像",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_007.png",
+    "question": "企業が矢印でつながっているのはどこですか。",
+    "answer": "投資家、政府機関、市場取引先等です。"
+  },
+  {
+    "question_id": 30,
+    "image type": "棒グラフ",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_008.png",
+    "question": "左のグラフによると、現在、需要全体における一般消費者の需要は何割ですか。",
+    "answer": "30～40%です。"
+  },
+  {
+    "question_id": 31,
+    "image type": "画像",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_011.png",
+    "question": "再生可能エネルギーを知っている割合は何％ですか。",
+    "answer": "56%です。"
+  },
+  {
+    "question_id": 32,
+    "image type": "その他",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_012.png",
+    "question": "再エネ自体を知る層の約80％が導入・購入に至らない要因は何ですか。",
+    "answer": "導入・購入方法や可能性に対する理解度が極めて低いこと、導入・購入を促進する制度や戦略的な利活用方法に対する浸透度が極めて低いこと、普段再エネの必要性や生活の影響を感じる機会が少ないなど、行動の壁が要因です。"
+  },
+  {
+    "question_id": 33,
+    "image type": "円グラフ",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_019.png",
+    "question": "再エネ認知している人のうち、再エネを導入・購入している割合は何%ですか。",
+    "answer": "23％です。"
+  },
+  {
+    "question_id": 34,
+    "image type": "円グラフ",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_022.png",
+    "question": "再エネ関連制度の認知度が最も高い制度はどれですか。",
+    "answer": "カーボンニュートラル・ゼロカーボンで36%です。"
+  },
+  {
+    "question_id": 35,
+    "image type": "円グラフ",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_023.png",
+    "question": "「再生可能エネルギー」補助金制度を利用した人のうち、自身で調べた人の割合は何％ですか。",
+    "answer": "37％です。63％は受動的な情報ソースで初めて利用可能な制度として認識しているので、関連制度に係る浸透度はいまだ発展途上といえます。"
+  },
+  {
+    "question_id": 36,
+    "image type": "テキスト",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_027.png",
+    "question": "一般消費者が再エネ導入・購入時に感じるメリットとして最も割合が高い項目は何ですか。",
+    "answer": "電源を選べると嬉しいの61%です。"
+  },
+  {
+    "question_id": 37,
+    "image type": "表",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_036.png",
+    "question": "ターゲット層はいくつに分けられていますか。",
+    "answer": "3つで、将来の購入・導入層、購入メイン層、導入メイン層です。"
+  },
+  {
+    "question_id": 38,
+    "image type": "表",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_037.png",
+    "question": "将来の購入・導入層に対するプロモーションの方向性は何ですか。",
+    "answer": "デジタルマーケティングに主軸を置いた非金銭的価値(環境価値・社会貢献)の訴求です。"
+  },
+  {
+    "question_id": 39,
+    "image type": "棒グラフ",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_043.png",
+    "question": "左下のグラフで、EV需要は今後どうなりますか。",
+    "answer": "EV需要は今後さらに進展します。"
+  },
+  {
+    "question_id": 40,
+    "image type": "画像",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_043.png",
+    "question": "主な基本機能のEVの例と、＋αの機能を挙げてください。",
+    "answer": "基本機能は、低公害（走行時）、先進性、低層音、移動手段で、＋αの機能は電気の充放電（走る蓄電池）です。"
+  },
+  {
+    "question_id": 41,
+    "image type": "円グラフ",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_060.png",
+    "question": "円グラフで、グレーの色はどんな回答を表していますか。",
+    "answer": "「分からない」です。"
+  },
+  {
+    "question_id": 42,
+    "image type": "棒グラフ",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_062.png",
+    "question": "「再生可能エネルギー」を導入した後に不安・不満に感じたことの2位は何ですか。",
+    "answer": "「メンテナンスが面倒」です。"
+  },
+  {
+    "question_id": 43,
+    "image type": "積み上げ棒グラフ",
+    "image": "00b7e351aae8dfc242603440082e6a50511f8f3e0bed3f70d1909073bfac091d_page_065.png",
+    "question": "電力供給の再エネのうち、最も割合が多い発電方法は何ですか。",
+    "answer": "太陽光発電です。"
+  },
+  {
+    "question_id": 44,
+    "image type": "画像",
+    "image": "00b8934ca6e6145c64ad77fb1bf6238d03febe6b471993de1744f8082f89921f_page_004.png",
+    "question": "しょうこさんが受け取った料金未納のお知らせにはなんと書かれていましたか。",
+    "answer": "「本日中に連絡がない場合は、法的措置をとります」と書かれています。"
+  },
+  {
+    "question_id": 45,
+    "image type": "画像",
+    "image": "00b8934ca6e6145c64ad77fb1bf6238d03febe6b471993de1744f8082f89921f_page_006.png",
+    "question": "しょうこさんは詐欺に引っかかりましたか。",
+    "answer": "いいえ、お金を支払っていないので、引っ掛かっていません。"
+  },
+  {
+    "question_id": 46,
+    "image type": "画像",
+    "image": "00bcad790e2302414209bb29aed106d124f04bafd449b92a3d5d5950b46cdea1_page_004.png",
+    "question": "あましんビジネスモデルの2本柱は何ですか。",
+    "answer": "コンサルティング機能の発揮と地域貢献活動です。コンサルティング機能においては、「事業性評価」の目線で創業支援から事業承継まで、あらゆる経営課題に最適なソリューションをご提案します。地域貢献活動においては、「本業のひとつ」と考え環境・安全・教育・文化などの活動に全役職員が一丸となって取り組みます。"
+  },
+  {
+    "question_id": 47,
+    "image type": "表",
+    "image": "00bcad790e2302414209bb29aed106d124f04bafd449b92a3d5d5950b46cdea1_page_005.png",
+    "question": "「あましんSDGs」サービスパッケージを創設したのはいつですか。",
+    "answer": "2022年7月です。"
+  },
+  {
+    "question_id": 48,
+    "image type": "円グラフ",
+    "image": "00bcad790e2302414209bb29aed106d124f04bafd449b92a3d5d5950b46cdea1_page_006.png",
+    "question": "尼崎信用金庫の融資取引先企業のうち、最も割合が高い業種は何ですか。",
+    "answer": "建設業で2,513億円の融資をしています。これは全体の19.1%にあたります。"
+  },
+  {
+    "question_id": 49,
+    "image type": "その他",
+    "image": "00bcad790e2302414209bb29aed106d124f04bafd449b92a3d5d5950b46cdea1_page_009.png",
+    "question": "価値創造事業部法人ソリューションGと、神戸大共同研究メンバーではどのような共有が行われますか。",
+    "answer": "価値創造事業部法人ソリューションGからは対話実施先の調整・対話手法の共有を行い、神戸大共同研究メンバーからは課題整理状況の共有・作成手法の改善検討などを共有します。"
+  },
+  {
+    "question_id": 50,
+    "image type": "画像",
+    "image": "00bcad790e2302414209bb29aed106d124f04bafd449b92a3d5d5950b46cdea1_page_024.png",
+    "question": "脱炭素モデル企業ある中堅中小企業に脱炭素支援をしているのはどこですか。",
+    "answer": "CN支援企業であるベンチャー/専門機関です。"
+  },
+  {
+    "question_id": 51,
+    "image type": "画像",
+    "image": "00bcad790e2302414209bb29aed106d124f04bafd449b92a3d5d5950b46cdea1_page_025.png",
+    "question": "モノづくりパビリオンの開催日はいつですか。",
+    "answer": "2023.12/8（金）~12/9（土）です。"
+  },
+  {
+    "question_id": 52,
+    "image type": "画像",
+    "image": "00ee1ee735b88a9b33036e39c8ae0c67a7b332ab87173e5addf19ed295c0063f_page_002.png",
+    "question": "現状の、求職者と企業の関係はどのようなものですか。",
+    "answer": "企業から求職者等への情報提供が不十分なためにミスマッチ等の問題が発生しています。"
+  },
+  {
+    "question_id": 53,
+    "image type": "テキスト",
+    "image": "00ee1ee735b88a9b33036e39c8ae0c67a7b332ab87173e5addf19ed295c0063f_page_003.png",
+    "question": "求職者にとって職業選択の観点等からも重要であるのはどのようなことですか。",
+    "answer": "企業における女性の管理職比率や男女の賃金の差異、賃金等のマッチングに資する情報の整理・充実などです。"
+  },
+  {
+    "question_id": 54,
+    "image type": "表",
+    "image": "00f5dabb87dcb00a9ba77e34666bb1bdd1f4c18ce6e088550be01ae2bdffc59e_page_009.png",
+    "question": "第3回会合における検討テーマは何ですか。",
+    "answer": "資金調達側から見た取引制度の課題・解決策と、その他として証券会社の関与ニーズ等の具体化が検討テーマです。"
+  },
+  {
+    "question_id": 55,
+    "image type": "画像",
+    "image": "0803595c396ba9a9236c34c0ea45520d9758ec8f6886e5ae9f93bd062d12ed0d_page_007.png",
+    "question": "連携している世界トップレベル企業とはどこですか。",
+    "answer": "Microsoft, Google, YAHOO!, Apple, intel, ASML, Applied Materials, tsmcです。"
+  },
+  {
+    "question_id": 56,
+    "image type": "画像",
+    "image": "0803595c396ba9a9236c34c0ea45520d9758ec8f6886e5ae9f93bd062d12ed0d_page_008.png",
+    "question": "くまもとDX人材育成プラットフォームにおける熊本市の役割は何ですか。",
+    "answer": "スマートシティ推進に必要となる人材確保の観点からの教育プログラムに対する提案です。"
+  },
+  {
+    "question_id": 57,
+    "image type": "積み上げ棒グラフ",
+    "image": "00ffd398e42454caecc962bb99a0bf1f9ca8b191dff278e75126c7c10f722b00_page_008.png",
+    "question": "Patient Centricityに関連する取り組みを行う専門の部署やタスクチームがあると回答したのは2016年から2021年にかけてどのくらい増加していますか。",
+    "answer": "7社の13%から47社の47%まで大幅に増加しています。"
+  },
+  {
+    "question_id": 58,
+    "image type": "テキスト",
+    "image": "00ffd398e42454caecc962bb99a0bf1f9ca8b191dff278e75126c7c10f722b00_page_017.png",
+    "question": "希少疾患をもつ患者さんの困りごとに関する調査から特定した製薬企業が取り組むべき重要な3つの課題は何ですか。",
+    "answer": "①情報が少なく、必要な情報の取得に苦労する　②社会による疾患への理解・知識が不足している　③治療選択肢が限られている・根本治療がない　の3点です。"
+  },
+  {
+    "question_id": 59,
+    "image type": "表",
+    "image": "6fff374c120678dbb37f950eee9180ddfc0462c7a0a9f2cd8c97577606d6d680_page_002.png",
+    "question": "人獣共通感染症に関して各省の分類は何ですか。",
+    "answer": "環境省は主に環境、野生動物についてで、厚生労働省はヒト、農林水産省は主に畜産動物について担当しています。"
+  },
+  {
+    "question_id": 60,
+    "image type": "表",
+    "image": "02c7c295b358e078fbd4a4930b89b0ea711c72eb776d6b3321962c567d282638_page_002.png",
+    "question": "学校の回収サンプルは何校ですか。",
+    "answer": "小学校が3190件、中学校が3084件で、合計6274件です。"
+  },
+  {
+    "question_id": 61,
+    "image type": "棒グラフ",
+    "image": "02c7c295b358e078fbd4a4930b89b0ea711c72eb776d6b3321962c567d282638_page_007.png",
+    "question": "貴教育委員会が独自に「問題集」や「復讐シート」等の教材を作成し、配布という項目の回答割合が最も多いのは大卒比率がどのようなところですか。",
+    "answer": "大卒比率が高いところで26.0%になります。"
+  },
+  {
+    "question_id": 62,
+    "image type": "テキスト",
+    "image": "02c7c295b358e078fbd4a4930b89b0ea711c72eb776d6b3321962c567d282638_page_015.png",
+    "question": "地域間・学校間の社会経済的な格差は何について生まれていますか。",
+    "answer": "保護者の教育への関心・関与の階層差・学校差である可能性が高く、当該地域の大卒割合が関連している可能性があります。"
+  },
+  {
+    "question_id": 63,
+    "image type": "表",
+    "image": "02e4a23f045ad2a4b722369c26f9373bb8b4ce1493648a5ff38bf8610a329a6a_page_005.png",
+    "question": "EMR/EHRの活用目的が医療コストの削減であるのはどこの国ですか。",
+    "answer": "アメリカとスウェーデンです。"
+  },
+  {
+    "question_id": 64,
+    "image type": "テキスト",
+    "image": "9db5aba6362e23c678065b9387a138655f86bc38af9db481d728a3c7c1079583_page_003.png",
+    "question": "こどもの居場所づくりとはどのようなことですか。",
+    "answer": "さまざまなニーズや特性を持つこども・若者が、身近な地域において、各々のライフステージに応じた居場所を切れ目なく持つことができることです。"
+  },
+  {
+    "question_id": 65,
+    "image type": "テキスト",
+    "image": "03b357bd42ce8c01b33add0fac86f512a809e167ac1a272ae43d6445421faea5_page_008.png",
+    "question": "特定警戒都道府県は全部でいくつありますか。",
+    "answer": "東京都、大阪府、北海道、茨城県、千葉県、神奈川県、石川県、岐阜県、愛知県、京都府、兵庫県、福岡県の13都道府県です。"
+  },
+  {
+    "question_id": 66,
+    "image type": "棒グラフ",
+    "image": "03b357bd42ce8c01b33add0fac86f512a809e167ac1a272ae43d6445421faea5_page_009.png",
+    "question": "在宅勤務の割合が最も多いのは何ですか。",
+    "answer": "本部・本社です。"
+  },
+  {
+    "question_id": 67,
+    "image type": "棒グラフ",
+    "image": "03b357bd42ce8c01b33add0fac86f512a809e167ac1a272ae43d6445421faea5_page_015.png",
+    "question": "会社貸与端末について、持ち出しありの割合は方針発表前後でどれだけ増加しましたか。",
+    "answer": "10.3%増加しています。"
+  },
+  {
+    "question_id": 68,
+    "image type": "その他",
+    "image": "3728dff7f1fc9ea22787047837d4dcb9a8057b9ff460ed5e673a285b01db7434_page_009.png",
+    "question": "今月も先行きも好転としている非製造業は何ですか。",
+    "answer": "小売業です。"
+  },
+  {
+    "question_id": 69,
+    "image type": "表",
+    "image": "3728dff7f1fc9ea22787047837d4dcb9a8057b9ff460ed5e673a285b01db7434_page_014.png",
+    "question": "2020年12月から2021年3月にかけて仕入れ価格が上昇していない業種は何ですか。",
+    "answer": "建設業で、12月の13.9から3月の13.5にかけて減少しています。しかし、先行きは27.0と大幅に上昇しています。"
+  },
+  {
+    "question_id": 70,
+    "image type": "画像",
+    "image": "e765ab3a24e52ae63e64333ec00435d655ab8afd1ec079474cc0ea9eed91b8c5_page_006.png",
+    "question": "コミュニケーション支援にはどのようなものがありますか。",
+    "answer": "行政・生活情報の多言語化、相談体制、日本語教育、生活オリエンテーションです。"
+  },
+  {
+    "question_id": 71,
+    "image type": "表",
+    "image": "e765ab3a24e52ae63e64333ec00435d655ab8afd1ec079474cc0ea9eed91b8c5_page_014.png",
+    "question": "日本語の支援が必要な児童生徒数が最も多いのはいつですか。",
+    "answer": "R4年で3297人です。H29年以降右肩上がりに増加しています。"
+  },
+  {
+    "question_id": 72,
+    "image type": "画像",
+    "image": "03f912d52a72d835d5f6299275d9666182f3be94b686e7383a64d2025a609469_page_008.png",
+    "question": "ソニーのピープルフィロソフィは何ですか。",
+    "answer": "Special You, Diverse Sonyです。Special Youは自らの意思で独自のキャリアを築き自由闊達な未来を切り拓くという意味です。Diverse Sonyは多様な個を受け入れる器であり、人と人とが影響し合い、新たな価値を創出するための場があるということです。"
+  },
+  {
+    "question_id": 73,
+    "image type": "テキスト",
+    "image": "03f912d52a72d835d5f6299275d9666182f3be94b686e7383a64d2025a609469_page_012.png",
+    "question": "技術戦略コミッティとは何ですか。",
+    "answer": "ソニーの各事業を横断する技術の横串活動です。技術領域別に10のコミッティがあり、事業の垣根を越え、最先端の技術情報を共有するとともに技術力を高める場となっています。更新の育成にも注力しており、若手の成長を促し、目指す姿への道のりをサポートする場です。"
+  },
+  {
+    "question_id": 74,
+    "image type": "画像",
+    "image": "07e42ca7ac3dec85b5d3463008fbf73b2e9334e1b109bf759b33eb15ed150887_page_012.png",
+    "question": "上の生徒は何番の問題に答えましたか。",
+    "answer": "1⃣の(1)です。"
+  },
+  {
+    "question_id": 75,
+    "image type": "画像",
+    "image": "07e42ca7ac3dec85b5d3463008fbf73b2e9334e1b109bf759b33eb15ed150887_page_012.png",
+    "question": "二人の生徒たちと授業者が見ているシートは同じですか、違いますか。",
+    "answer": "同じです。"
+  },
+  {
+    "question_id": 76,
+    "image type": "その他",
+    "image": "07e42ca7ac3dec85b5d3463008fbf73b2e9334e1b109bf759b33eb15ed150887_page_013.png",
+    "question": "第一段階で使わなかったのは何ですか。",
+    "answer": "授業支援アプリケーションです。"
+  },
+  {
+    "question_id": 77,
+    "image type": "表",
+    "image": "0370bde743670c2e11ba0eda60176e3b3f5dcc6d5db6d726a35abf7d1129a37f_page_012.png",
+    "question": "表示例では、「家族の看護」は規定がありますか。",
+    "answer": "明文規定はありませんが、運用上は認められています。"
+  },
+  {
+    "question_id": 78,
+    "image type": "画像",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_003.png",
+    "question": "拠点が最も多いのはどのエリアですか。",
+    "answer": "北海道で5,793席あります。"
+  },
+  {
+    "question_id": 79,
+    "image type": "画像",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_004.png",
+    "question": "Bell System24の業務は何がありますか。",
+    "answer": "「通販・EC等の受付」「イベント事務局」「セールスアウトバウンド」「選挙における出口調査」「リコール等の緊急対策窓口」「メーカーのカスタマーサポート」「テクニカルサポート」「オムニチャネル」「コンタクトセンター」「BPO」です。"
+  },
+  {
+    "question_id": 80,
+    "image type": "テキスト",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_009.png",
+    "question": "内部通報運用体制の課題を4点挙げてください。",
+    "answer": "認知不足、制度への理解不足、内部通報制度への信頼感の欠如、エキスパート社員の設置・育成の4点です。"
+  },
+  {
+    "question_id": 81,
+    "image type": "円グラフ",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_010.png",
+    "question": "2017年度の内部通報の内容に関する円グラフで、過半数を占めるのは何ですか。",
+    "answer": "ハラスメント関連で、76%を占めています。"
+  },
+  {
+    "question_id": 82,
+    "image type": "棒グラフ",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_010.png",
+    "question": "2018年度の内部通報件数はいくつですか。",
+    "answer": "140件です。"
+  },
+  {
+    "question_id": 83,
+    "image type": "画像",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_016.png",
+    "question": "現在の社内ハラスメント相談窓口体制は、2019年以前と比較してどのように変化していますか。",
+    "answer": "スキルについては、ハラスメント相談員や産業カウンセラー、アンガーマネジメント、EQ研修受講などにより向上しています。また、人員についても、オペレーション経験者の配置により現場目線をもつ人が増えています。"
+  },
+  {
+    "question_id": 84,
+    "image type": "画像",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_017.png",
+    "question": "事案発生部署に解決支援を行うのはどこですか。",
+    "answer": "人事・採用部門です。"
+  },
+  {
+    "question_id": 85,
+    "image type": "画像",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_020.png",
+    "question": "法令上の要請事項となっていないハラスメント事案において、ベルグループで禁止事項として明記されているのは何種類ですか。",
+    "answer": "８種類です。"
+  },
+  {
+    "question_id": 86,
+    "image type": "画像",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_021.png",
+    "question": "テクノロジー・ハラスメントとはどのようなものですか。",
+    "answer": "情報処理端末等を含む情報処理システムに詳しい役職員等が、これらに疎い利害関係役職員等に対し、専門用語を使用して馬鹿にする等の嫌がらせをすることです。"
+  },
+  {
+    "question_id": 87,
+    "image type": "画像",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_023.png",
+    "question": "このスライドの左下の枠の相談事例は何ですか。",
+    "answer": "「みんなの前で怒鳴る」「挨拶をしても無視される」「部下にミスをなすりつける」「解雇をほのめかす」「相談しても冷たくされる」です。"
+  },
+  {
+    "question_id": 88,
+    "image type": "画像",
+    "image": "6f1ef0b18d2805426b681946de02f4f6e38661c0b18b251baa4e8c93c7f89b6b_page_023.png",
+    "question": "ハラスメント相談内容の例は何点挙げられていますか。",
+    "answer": "14点です。"
+  },
+  {
+    "question_id": 89,
+    "image type": "画像",
+    "image": "0a06bbb1009193c096a1b5d15a49e9514c0b245b487a84e2d45c446372e1ddea_page_003.png",
+    "question": "図ではどことどことどこが連携していますか。",
+    "answer": "教育関係者、利用者、産業界です。"
+  },
+  {
+    "question_id": 90,
+    "image type": "画像",
+    "image": "0a06bbb1009193c096a1b5d15a49e9514c0b245b487a84e2d45c446372e1ddea_page_003.png",
+    "question": "安心ネットづくり促進協議会は何をしますか。",
+    "answer": "関係者間の橋渡しをします。"
+  },
+  {
+    "question_id": 91,
+    "image type": "テキスト",
+    "image": "0a06bbb1009193c096a1b5d15a49e9514c0b245b487a84e2d45c446372e1ddea_page_005.png",
+    "question": "青少年向けのイベントのの目的は何ですか。",
+    "answer": "青少年の情報モラル意識とネット・リテラシー向上です。"
+  },
+  {
+    "question_id": 92,
+    "image type": "画像",
+    "image": "0a06bbb1009193c096a1b5d15a49e9514c0b245b487a84e2d45c446372e1ddea_page_006.png",
+    "question": "高校生ICT Conferenceにおける高校生の役割はどのようなものですか。",
+    "answer": "大人には知識を提供し、逆に大人からはモラルを提供してもらいます。小・中学生に対しては相談を受けアドバイスをするという役割です。"
+  },
+  {
+    "question_id": 93,
+    "image type": "画像",
+    "image": "0a06bbb1009193c096a1b5d15a49e9514c0b245b487a84e2d45c446372e1ddea_page_008.png",
+    "question": "SNSでのトラブルを予防するためには何が必要ですか。",
+    "answer": "送る文章をもう一度確認することや、Twitterに鍵をかけることです。"
+  },
+  {
+    "question_id": 94,
+    "image type": "その他",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_005.png",
+    "question": "「『強化=育成=普及』ピラミッド」で一番下層にあるものは何ですか。",
+    "answer": "「普及」です。"
+  },
+  {
+    "question_id": 95,
+    "image type": "画像",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_005.png",
+    "question": "「『強化=育成=普及』をリンクさせた拡大再生産の好循環」で起点となっているのは何ですか。",
+    "answer": "スーパースターの誕生です。"
+  },
+  {
+    "question_id": 96,
+    "image type": "テキスト",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_006.png",
+    "question": "マーケット全体の拡大を目指すにはどのようなアプローチをしますか。",
+    "answer": "裾野分野＝最もパイが大きくなる可能性があり、かつ、将来を担う若年層へのアプローチにより、競技人口増を狙います。さらにこの取り組みにより、愛好者＝みる層およびプレイヤーの両親、祖父母などの支えるそうにもしっかりとアプローチすることでマーケット全体の拡大を目指します。"
+  },
+  {
+    "question_id": 97,
+    "image type": "円グラフ",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_007.png",
+    "question": "テニス競技人口に関する円グラフは、何を表していますか。",
+    "answer": "競技人口が2.5倍の31万人に増えたことを表しています。"
+  },
+  {
+    "question_id": 98,
+    "image type": "棒グラフ",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_007.png",
+    "question": "Play ＆Stay選手登録料収入に関する棒グラフは、どのような傾向を示していますか。",
+    "answer": "選手登録者数の増加に付随して大幅に増加しています。"
+  },
+  {
+    "question_id": 99,
+    "image type": "その他",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_009.png",
+    "question": "「テニピン」及び「Play&Stay」起点の収益化活動には何がありますか。",
+    "answer": "ユーザーデータベースの構築、データマーケティング活動（テニピン関連企画・P&S関連企画）です。"
+  },
+  {
+    "question_id": 100,
+    "image type": "棒グラフ",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_012.png",
+    "question": "「テニピン」普及推進活動のうち、計画に対する実績の達成率が一番高いのは何ですか。",
+    "answer": "「テニピン研修会実施回数」です。"
+  },
+  {
+    "question_id": 101,
+    "image type": "表",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_013.png",
+    "question": "「テニピン」普及推進活動の7月の実施実績は何ですか。",
+    "answer": "関係者への活動内容説明及び事前準備です。"
+  },
+  {
+    "question_id": 102,
+    "image type": "棒グラフ",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_016.png",
+    "question": "4回のオンラインセミナーのうち、最も導入率が高かったセミナーの開催日はいつですか。",
+    "answer": "11/28(土)16:00~17:00のもので、導入率は36.4%でした。"
+  },
+  {
+    "question_id": 103,
+    "image type": "テキスト",
+    "image": "0a0b15306ac2e5b6e1bdcac515aa2e6b3257d17cd7366d72f3a77b0a70c43c5c_page_032.png",
+    "question": "「テニピン」普及推進活動の令和3年度の実施計画はどのようなものですか。",
+    "answer": "1. 全国での研修会の実施　2. 用具寄贈キャンペーン　3. ガイドブックの配布　の3点です。"
+  },
+  {
+    "question_id": 104,
+    "image type": "積み上げ棒グラフ",
+    "image": "21ef1416d9b7b05cc37ff05bcca085cc13a0f4c30db2a280a0d50a871cbc0d1e_page_002.png",
+    "question": "日雇い派遣の実績のない企業において、業務の範囲について最も回答の割合が高かった項目は何ですか。",
+    "answer": "緩和してほしいで32.7%です。"
+  },
+  {
+    "question_id": 105,
+    "image type": "積み上げ棒グラフ",
+    "image": "21ef1416d9b7b05cc37ff05bcca085cc13a0f4c30db2a280a0d50a871cbc0d1e_page_006.png",
+    "question": "短期労働の雇用実績がある事業所において、短期労働にかかる法制度への見直しが「現状のままで良い」と回答している割合は何%ですか。",
+    "answer": "38.3%です。"
+  },
+  {
+    "question_id": 106,
+    "image type": "積み上げ棒グラフ",
+    "image": "21ef1416d9b7b05cc37ff05bcca085cc13a0f4c30db2a280a0d50a871cbc0d1e_page_007.png",
+    "question": "無回答の事業所で、「現状のままでよい」と回答したのは何割ですか。",
+    "answer": "15.0%です。"
+  },
+  {
+    "question_id": 107,
+    "image type": "画像",
+    "image": "de3624a7947af450aef3e66da403e95f119b77e65e9c9ff34d0ce8a2b71b700a_page_012.png",
+    "question": "情報開示の義務化の行為サイクルにおいて、消費者の行動の次は何ですか。",
+    "answer": "企業側の認識と計算です。"
+  },
+  {
+    "question_id": 108,
+    "image type": "テキスト",
+    "image": "8cb0a3b262a8dece8d8829f78c09022a3d5f1f19e90d82541921500e7c8ee35d_page_003.png",
+    "question": "近年、生保資産運用で増えたものは何ですか。",
+    "answer": "ESG投融資やスチュワードシップ活動を通じた、持続可能な社会の実現に向けた役割が増大しています。"
+  },
+  {
+    "question_id": 109,
+    "image type": "折れ線グラフ",
+    "image": "8cb0a3b262a8dece8d8829f78c09022a3d5f1f19e90d82541921500e7c8ee35d_page_006.png",
+    "question": "右のグラフで、生保の国債保有割合が最大になったのはいつですか。",
+    "answer": "2012年です。"
+  },
+  {
+    "question_id": 110,
+    "image type": "積み上げ棒グラフ",
+    "image": "8cb0a3b262a8dece8d8829f78c09022a3d5f1f19e90d82541921500e7c8ee35d_page_010.png",
+    "question": "自己株買い入れ消却の厳格な規制実施目的が法令改正で実現したのはいつですか。",
+    "answer": "2001年です。それ以降各企業の目的に応じた機動的な自己株取得が可能となり、株主還元手段が多様化しました。"
+  },
+  {
+    "question_id": 111,
+    "image type": "画像",
+    "image": "8cb0a3b262a8dece8d8829f78c09022a3d5f1f19e90d82541921500e7c8ee35d_page_014.png",
+    "question": "株式市場の活性化と持続可能な社会の実現への貢献に向け新設されたものは何ですか。",
+    "answer": "ESG投資融資推進WGです。"
+  },
+  {
+    "question_id": 112,
+    "image type": "画像",
+    "image": "8cb0a3b262a8dece8d8829f78c09022a3d5f1f19e90d82541921500e7c8ee35d_page_017.png",
+    "question": "対話内容のレベルアップの取り組み事例として、取り組み社数が最も多い事例はなんですか。",
+    "answer": "G（ガバナンス）に関する対話で、WG参加の全社が取り組んでいます。"
+  },
+  {
+    "question_id": 113,
+    "image type": "円グラフ",
+    "image": "8cb0a3b262a8dece8d8829f78c09022a3d5f1f19e90d82541921500e7c8ee35d_page_022.png",
+    "question": "ESG情報の開示充実に関する円グラフで、「方向性なし」の割合はいくつですか。",
+    "answer": "47％です。"
+  },
+  {
+    "question_id": 114,
+    "image type": "円グラフ",
+    "image": "8cb0a3b262a8dece8d8829f78c09022a3d5f1f19e90d82541921500e7c8ee35d_page_028.png",
+    "question": "投資家のうち、株主還元・配当水準に満足できる企業が半分程度以下と答えたのは何%ですか。",
+    "answer": "81%です。そのうち、半分程度は満足できる水準と答えたのが57%です。"
+  },
+  {
+    "question_id": 115,
+    "image type": "棒グラフ",
+    "image": "8cb0a3b262a8dece8d8829f78c09022a3d5f1f19e90d82541921500e7c8ee35d_page_034.png",
+    "question": "取締役会の実効性向上に向けて、投資家が最も課題に感じていることはなんですか。",
+    "answer": "社外役員が機能発揮できる環境整備です。"
+  },
+  {
+    "question_id": 116,
+    "image type": "その他",
+    "image": "0a357f389df277f0cc12008a2c55560eaabd8fc68f1dc714a1194f4212ea4b6c_page_004.png",
+    "question": "2021年からの中国の天然ガス市場における主な動きとして、9月には何がありましたか。",
+    "answer": "電力危機、工場操業制限がありました。"
+  },
+  {
+    "question_id": 117,
+    "image type": "テキスト",
+    "image": "0a357f389df277f0cc12008a2c55560eaabd8fc68f1dc714a1194f4212ea4b6c_page_005.png",
+    "question": "2021年の消費成長は何%ですか。",
+    "answer": "前年比12.7%増で過去最高の伸びです。コロナからの経済副長で需要増加、特に工業、発電が需要を牽引しています。"
+  },
+  {
+    "question_id": 118,
+    "image type": "積み上げ棒グラフ",
+    "image": "0a357f389df277f0cc12008a2c55560eaabd8fc68f1dc714a1194f4212ea4b6c_page_006.png",
+    "question": "棒グラフの赤色は何を表していますか。",
+    "answer": "都市ガスを表しています。"
+  },
+  {
+    "question_id": 119,
+    "image type": "その他",
+    "image": "0a357f389df277f0cc12008a2c55560eaabd8fc68f1dc714a1194f4212ea4b6c_page_007.png",
+    "question": "今後、生産量が増えそうなガス生産の種類は何ですか。",
+    "answer": "シェールガスです。"
+  },
+  {
+    "question_id": 120,
+    "image type": "表",
+    "image": "0a357f389df277f0cc12008a2c55560eaabd8fc68f1dc714a1194f4212ea4b6c_page_022.png",
+    "question": "契約期間が最も長いのは何年ですか。",
+    "answer": "20年です。"
+  },
+  {
+    "question_id": 121,
+    "image type": "積み上げ棒グラフ",
+    "image": "0a357f389df277f0cc12008a2c55560eaabd8fc68f1dc714a1194f4212ea4b6c_page_027.png",
+    "question": "2040年のガス供給はどのような数値になると予想されますか。",
+    "answer": "LNG Importsが215、Pipeline Gas Importsが145、Domestic Supplyが315です。"
+  },
+  {
+    "question_id": 122,
+    "image type": "画像",
+    "image": "0a357f389df277f0cc12008a2c55560eaabd8fc68f1dc714a1194f4212ea4b6c_page_032.png",
+    "question": "2030年排出ピークアウトに向けた行動計画のうち、省エネ、排出規制に関するものはどのようなものですか。",
+    "answer": "2030年にエネルギー消費の25%を非化石、GDP単位当たりのCO2排出量を2005年比65%以上引き下げます。そして2030年に排出をピークアウトさせます。"
+  },
+  {
+    "question_id": 123,
+    "image type": "折れ線グラフ",
+    "image": "0a3a3aeb8e729d3442acc44cbf78af9e313c9a6e3e2ed8b03d153bece35a9042_page_005.png",
+    "question": "このグラフの赤線は何を表していますか。",
+    "answer": "日本の社会保険料負担の推移を表しています。"
+  },
+  {
+    "question_id": 124,
+    "image type": "表",
+    "image": "0a3a3aeb8e729d3442acc44cbf78af9e313c9a6e3e2ed8b03d153bece35a9042_page_006.png",
+    "question": "Japanの国民負担率における社会保障負担の比率はいくつですか。",
+    "answer": "40.4%です。"
+  },
+  {
+    "question_id": 125,
+    "image type": "その他",
+    "image": "0a3f77c8beb59d5b338311a40d157c782d3132e13537c3da962a7d410878396a_page_003.png",
+    "question": "TOYOTAのCN対応について説明してください。",
+    "answer": "2030年世界電動自動車販売800万台、内ZEV200万台の目標をEV350万台に上方修正しています。また、2035年までに自社工場CO2ゼロを達成し、2050年に環境チャレンジ2050LCAにてCNを達成します。"
+  },
+  {
+    "question_id": 126,
+    "image type": "テキスト",
+    "image": "0a3f77c8beb59d5b338311a40d157c782d3132e13537c3da962a7d410878396a_page_008.png",
+    "question": "なぜ政府はサプライチェーンを重複させているのですか。",
+    "answer": "事業者同士が連携して削減に取り組むことで、より多くのCO2を削減できるようにするためです。"
+  },
+  {
+    "question_id": 127,
+    "image type": "表",
+    "image": "0a3f77c8beb59d5b338311a40d157c782d3132e13537c3da962a7d410878396a_page_018.png",
+    "question": "表の中の黄色で色づいているものは何ですか。",
+    "answer": "多くの企業で担当部門を設置されているものです。"
+  },
+  {
+    "question_id": 128,
+    "image type": "その他",
+    "image": "0a3f77c8beb59d5b338311a40d157c782d3132e13537c3da962a7d410878396a_page_019.png",
+    "question": "図の中の緑色は何を示していますか。",
+    "answer": "第１ステップで省エネ・節電に対応（基礎）しています。ISO対応で担当部門を設置します。"
+  },
+  {
+    "question_id": 129,
+    "image type": "その他",
+    "image": "0a3f77c8beb59d5b338311a40d157c782d3132e13537c3da962a7d410878396a_page_020.png",
+    "question": "設備の低CO2化はどの部門が担っていますか。",
+    "answer": "環境部門と生技部門です。"
+  },
+  {
+    "question_id": 130,
+    "image type": "テキスト",
+    "image": "0a57b8fdd46e2849932e11f747b95d3d518cbc54138930c0314ac3cf4899a0b0_page_004.png",
+    "question": "学校の現状はどうなっていますか。",
+    "answer": "地域社会の課題解決に向けて当事者意識を持つことができない生徒が多いです。"
+  },
+  {
+    "question_id": 131,
+    "image type": "テキスト",
+    "image": "0a57b8fdd46e2849932e11f747b95d3d518cbc54138930c0314ac3cf4899a0b0_page_022.png",
+    "question": "生徒はどのように振り返っていますか。",
+    "answer": "誰もが社会的弱者に回ってしまう可能性があり、そのような立場の人に対して社会全体で助けていく仕組みが、誰もが安心して生活するために必要である、と振り返っています。"
+  },
+  {
+    "question_id": 132,
+    "image type": "折れ線グラフ",
+    "image": "0a5e48143aab6a6b1ad0552174bee13756985acfd462fcc21336f815aa4d18af_page_003.png",
+    "question": "実質個人消費は2020年以降どうなっていますか。",
+    "answer": "2020年の初めに一旦下落し、その後上昇傾向です。"
+  },
+  {
+    "question_id": 133,
+    "image type": "テキスト",
+    "image": "0a5e48143aab6a6b1ad0552174bee13756985acfd462fcc21336f815aa4d18af_page_003.png",
+    "question": "家計の信用利用可能性はどのように変化していますか。",
+    "answer": "大幅な引き締め方向で推移しています。"
+  },
+  {
+    "question_id": 134,
+    "image type": "折れ線グラフ",
+    "image": "0a5e48143aab6a6b1ad0552174bee13756985acfd462fcc21336f815aa4d18af_page_007.png",
+    "question": "賃貸市場の家賃が大幅に上昇し始めたのはいつですか。",
+    "answer": "2022年です。"
+  },
+  {
+    "question_id": 135,
+    "image type": "棒グラフ",
+    "image": "0a7fcecf0a62726246719c18f4416c2e0db92b54e500839bf5c1663b20479cd4_page_003.png",
+    "question": "2022年の予測値はいくつですか。",
+    "answer": "91億円です。"
+  },
+  {
+    "question_id": 136,
+    "image type": "棒グラフ",
+    "image": "0a7fcecf0a62726246719c18f4416c2e0db92b54e500839bf5c1663b20479cd4_page_004.png",
+    "question": "2025年長期目標（試算）において、エコステム領域は何億円ですか。",
+    "answer": "650~750億円です。"
+  },
+  {
+    "question_id": 137,
+    "image type": "画像",
+    "image": "0a7fcecf0a62726246719c18f4416c2e0db92b54e500839bf5c1663b20479cd4_page_014.png",
+    "question": "アメリカの地方政府がeスポーツを活用したまちづくりを建設サポートしている都市はどこですか。",
+    "answer": "ワシントンD.Cと、ダラスです。"
+  },
+  {
+    "question_id": 138,
+    "image type": "画像",
+    "image": "78a56fb9878047d75641f73843ac4fcbf4763eadf3cb39398512878b2b110348_page_009.png",
+    "question": "国際拠点とはどのようなものですか。",
+    "answer": "世界のデータ・人材・投資・研究にアクセスする触媒としての機能を果たし、世界からバイオエコノミー拠点の一つとして認知されています。"
+  },
+  {
+    "question_id": 139,
+    "image type": "画像",
+    "image": "78a56fb9878047d75641f73843ac4fcbf4763eadf3cb39398512878b2b110348_page_012.png",
+    "question": "機関投資家が投資ファンドに投資する際の主な課題は何ですか。",
+    "answer": "①サイエンスに精通した人材層が薄い　②バイオ分野の特性を理解せず、短期間投資の方針をとり、シーズをつぶす　③海外での資金調達経験に乏しい　の３点です。"
+  },
+  {
+    "question_id": 140,
+    "image type": "表",
+    "image": "78a56fb9878047d75641f73843ac4fcbf4763eadf3cb39398512878b2b110348_page_016.png",
+    "question": "バイオ分野の世界被引用数上位100位に入る研究機関(2009-2014)は、いくつありますか。",
+    "answer": "7つあります。"
+  },
+  {
+    "question_id": 141,
+    "image type": "表",
+    "image": "78a56fb9878047d75641f73843ac4fcbf4763eadf3cb39398512878b2b110348_page_016.png",
+    "question": "バイオ分野の世界被引用数が最も多いのはどの機関のどの研究分野ですか。",
+    "answer": "東京大学の生物学・生化学分野で13位です。"
+  },
+  {
+    "question_id": 142,
+    "image type": "テキスト",
+    "image": "78a56fb9878047d75641f73843ac4fcbf4763eadf3cb39398512878b2b110348_page_020.png",
+    "question": "国・大学が抱える課題はどのようなものですか。",
+    "answer": "保有データが満たすべき要件や、優先して取得すべきデータや取組が想定できないことです。"
+  },
+  {
+    "question_id": 143,
+    "image type": "画像",
+    "image": "0ae1d711d9f13f785dc549613ee003b0c355d3aefdfa8fcb32eb6aabd428b158_page_007.png",
+    "question": "赤い枠で囲まれた図形は何ですか。",
+    "answer": "建物ポリゴンです。"
+  },
+  {
+    "question_id": 144,
+    "image type": "表",
+    "image": "0ae1d711d9f13f785dc549613ee003b0c355d3aefdfa8fcb32eb6aabd428b158_page_007.png",
+    "question": "太陽光発電を設置すると設備容量が2番目に大きくなるのはどのような建物ですか。",
+    "answer": "戸建住宅等です。"
+  },
+  {
+    "question_id": 145,
+    "image type": "棒グラフ",
+    "image": "0ae1d711d9f13f785dc549613ee003b0c355d3aefdfa8fcb32eb6aabd428b158_page_008.png",
+    "question": "右のグラフでは、水色の部分は何を表していますか。",
+    "answer": "電気が足りずに電力会社から電気を買う分を表しています。"
+  },
+  {
+    "question_id": 146,
+    "image type": "円グラフ",
+    "image": "0ae1d711d9f13f785dc549613ee003b0c355d3aefdfa8fcb32eb6aabd428b158_page_011.png",
+    "question": "米国のカリフォルニア州の電力割合における自然エネルギーは何%ですか。",
+    "answer": "水力8%、太陽光16%、風力7%、地熱・バイオ10%です。"
+  },
+  {
+    "question_id": 147,
+    "image type": "折れ線グラフ",
+    "image": "0af7f42d3b55de8df5c57a01bbf3a703fb72d52b65f18b14b7bf6d4ecbdd5468_page_011.png",
+    "question": "グラフの青い線は何を表していますか。",
+    "answer": "製造業の雇用人員判断DIです。"
+  },
+  {
+    "question_id": 148,
+    "image type": "テキスト",
+    "image": "0af7f42d3b55de8df5c57a01bbf3a703fb72d52b65f18b14b7bf6d4ecbdd5468_page_038.png",
+    "question": "日本経済新聞の集計において、2021年の世界の石炭火力発電料は対前年で何%増加していますか。",
+    "answer": "9%増加し初めて10兆kWhの大台に乗せました。"
+  },
+  {
+    "question_id": 149,
+    "image type": "積み上げ棒グラフ",
+    "image": "0af7f42d3b55de8df5c57a01bbf3a703fb72d52b65f18b14b7bf6d4ecbdd5468_page_104.png",
+    "question": "左側のグラフのSakhalin IIで最も割合が高いものは何ですか。",
+    "answer": "上流Opexです。"
+  },
+  {
+    "question_id": 150,
+    "image type": "積み上げ棒グラフ",
+    "image": "0af7f42d3b55de8df5c57a01bbf3a703fb72d52b65f18b14b7bf6d4ecbdd5468_page_104.png",
+    "question": "棒グラフにおいてグレーは何を表していますか。",
+    "answer": "輸送Opexです。"
+  },
+  {
+    "question_id": 151,
+    "image type": "折れ線グラフ",
+    "image": "0af7f42d3b55de8df5c57a01bbf3a703fb72d52b65f18b14b7bf6d4ecbdd5468_page_122.png",
+    "question": "グラフにおける赤の実線は何を表していますか。",
+    "answer": "LNG(長期契約終了に合わせロシアPL自然減少）を表しています。"
+  },
+  {
+    "question_id": 152,
+    "image type": "テキスト",
+    "image": "629e6d3531cf2c735527a32fae776829fe97aeb6c928ef362f3f2b207acfd8a1_page_005.png",
+    "question": "原子力利用にかかるイノベーションの創出に向けた取り組みとして、重点的取り組みで改定前から継続して行われているものは何ですか。",
+    "answer": "国や研究開発機関等は、新規設置も含め、ニーズに対応した基盤的施設・設備の構築・運営を図っていくべきというものです。"
+  },
+  {
+    "question_id": 153,
+    "image type": "テキスト",
+    "image": "e82bb617d84a8d08aefafece9bdc8e9373133fda396474ff98d8ad2e7876e4c1_page_009.png",
+    "question": "白物家電機器の国内出荷金額が前年度を上回る見込みである原因は何ですか。",
+    "answer": "夏の記録的な猛暑および、冬の寒波により、ルームエアコンの国内出荷が好調だった。また、電気シェーバー、ヘアドライヤー等の理美容機器も好調に推移したことです。"
+  },
+  {
+    "question_id": 154,
+    "image type": "表",
+    "image": "e82bb617d84a8d08aefafece9bdc8e9373133fda396474ff98d8ad2e7876e4c1_page_021.png",
+    "question": "2024年度見込みで発電用原動機の金額はいくらですか。",
+    "answer": "3,009億円です。"
+  },
+  {
+    "question_id": 155,
+    "image type": "折れ線グラフ",
+    "image": "e82bb617d84a8d08aefafece9bdc8e9373133fda396474ff98d8ad2e7876e4c1_page_023.png",
+    "question": "前年同期比で一番高いのは何年ですか。",
+    "answer": "2020年度で106.5%です。"
+  },
+  {
+    "question_id": 156,
+    "image type": "画像",
+    "image": "0b1f26e44a5be71c3862c896df0d4e537b5f15e8275a70ba4b1d6039fee0a6d1_page_047.png",
+    "question": "図に書かれている3つのモデルは何ですか。",
+    "answer": "切り出し・再構成モデル、特化モデル、積み上げモデルの3つです。"
+  },
+  {
+    "question_id": 157,
+    "image type": "棒グラフ",
+    "image": "0b27ec3dc110489381fc3dcb9f3365f52e45e83189ecdb3add4ab5a6d13ae98e_page_013.png",
+    "question": "クリエイターとインフルエンサーの収益性の差が最も大きいのはどの国ですか。",
+    "answer": "日本です。"
+  },
+  {
+    "question_id": 158,
+    "image type": "円グラフ",
+    "image": "0b27ec3dc110489381fc3dcb9f3365f52e45e83189ecdb3add4ab5a6d13ae98e_page_014.png",
+    "question": "最も多い収入源は何ですか。",
+    "answer": "influencer marketingで、31%です。"
+  },
+  {
+    "question_id": 159,
+    "image type": "棒グラフ",
+    "image": "0b496ffd713a8095d7ef15d1ae7074010387631b8dc2601e865ccf059173f4d9_page_006.png",
+    "question": "法人税の実効税率が最も低いのはどの国ですか。",
+    "answer": "シンガポールで17%です。"
+  },
+  {
+    "question_id": 160,
+    "image type": "折れ線グラフ",
+    "image": "0b50258efdc65e150eb4cdacbadc93aff60f686a9ee74ad2515151ff5928e16f_page_007.png",
+    "question": "医薬品市場対GDP比が2019年から2026年にかけて下がっている国はどこですか。",
+    "answer": "日本のみです。"
+  },
+  {
+    "question_id": 161,
+    "image type": "棒グラフ",
+    "image": "0b50258efdc65e150eb4cdacbadc93aff60f686a9ee74ad2515151ff5928e16f_page_012.png",
+    "question": "旧薬価ベースと新薬価ベースで、薬価の差はどのくらいありますか。",
+    "answer": "新薬価ベースの方が6000億円程度低くなっています。"
+  },
+  {
+    "question_id": 162,
+    "image type": "折れ線グラフ",
+    "image": "0b50258efdc65e150eb4cdacbadc93aff60f686a9ee74ad2515151ff5928e16f_page_013.png",
+    "question": "開発中の医薬品品目数について、日本が中国に追い抜かれたのはいつですか。",
+    "answer": "2017年です。"
+  },
+  {
+    "question_id": 163,
+    "image type": "積み上げ棒グラフ",
+    "image": "0b50258efdc65e150eb4cdacbadc93aff60f686a9ee74ad2515151ff5928e16f_page_014.png",
+    "question": "医療用医薬品世界売り上げ上位300品目の日本上市順位が3番目の割合は何%ですか。",
+    "answer": "67.3％です。"
+  },
+  {
+    "question_id": 164,
+    "image type": "折れ線グラフ",
+    "image": "0b50258efdc65e150eb4cdacbadc93aff60f686a9ee74ad2515151ff5928e16f_page_022.png",
+    "question": "各目GDP成長率推移において、最も低かったのはいつですか。",
+    "answer": "2020年で、およそ-4.0%です。"
+  },
+  {
+    "question_id": 165,
+    "image type": "棒グラフ",
+    "image": "0b7662f61064cbc90278240bb3c8089af1617ad04481f61a169b2596fbc3d90e_page_008.png",
+    "question": "固定期間選択型の利用割合が最も高い融資率は何％超何％以下ですか。",
+    "answer": "80%超90%以下で、19.6%を占めています。"
+  },
+  {
+    "question_id": 166,
+    "image type": "その他",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_035.png",
+    "question": "カナダのクリーンテックビジネスのステージはどのように進みますか。",
+    "answer": "まずStartup、次にDevelopment、最後にExpansionです。"
+  },
+  {
+    "question_id": 167,
+    "image type": "表",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_036.png",
+    "question": "協調投資を運営している機関はどこですか。",
+    "answer": "BBBです。"
+  },
+  {
+    "question_id": 168,
+    "image type": "表",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_036.png",
+    "question": "ドイツの「直接投資」ファンドはいつ運用開始されましたか。",
+    "answer": "2023年です。"
+  },
+  {
+    "question_id": 169,
+    "image type": "テキスト",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_060.png",
+    "question": "2023年に始まったDTSU支援事業の支援対象はどのようなDTSUですか。",
+    "answer": "技術の確立や事業化・社会実装までに長期の研究開発と大規模な資金を要し、リスクは高いものの国や世界全体で対処すべき経済社会課題の解決にも資すると考えられる革新的な技術の研究開発に取り組んでいるDTSUです。"
+  },
+  {
+    "question_id": 170,
+    "image type": "画像",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_061.png",
+    "question": "スタートアップの計画申請先はどこですか。",
+    "answer": "経済産業大臣です。"
+  },
+  {
+    "question_id": 171,
+    "image type": "テキスト",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_061.png",
+    "question": "ディープテックベンチャー向け債務保証制度の保証料はいくらですか。",
+    "answer": "原則0.3%（有担保）、0.4%（無担保）です。"
+  },
+  {
+    "question_id": 172,
+    "image type": "表",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_065.png",
+    "question": "食料の領域でシンガポール政府が進めている政策は何ですか。",
+    "answer": "食料自給率を2030年までに30%に向上させる、30 by 30です。"
+  },
+  {
+    "question_id": 173,
+    "image type": "その他",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_070.png",
+    "question": "EV開発の4段階は何ですか。",
+    "answer": "①試作　②開発　③量産　④販売の4段階です。開発と量産にそれぞれ数百億円規模の投資が必要です。"
+  },
+  {
+    "question_id": 174,
+    "image type": "表",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_072.png",
+    "question": "2018年終盤の時価総額はおよそいくらですか。",
+    "answer": "およそ500憶です。"
+  },
+  {
+    "question_id": 175,
+    "image type": "表",
+    "image": "04f681da283c0398d8d26768c260c48b6e18789b7fa0b5a0b1b88982cd72ade4_page_074.png",
+    "question": "SeiriesA〜Bの延べ投資家数はいくらですか。",
+    "answer": "1836です。"
+  },
+  {
+    "question_id": 176,
+    "image type": "テキスト",
+    "image": "bf5ef39c7b695cf66f3263d191b2e2beea598997816e583619b309cdd4870c69_page_002.png",
+    "question": "1990年から2012年にかけて、人工林の増加量はどのくらいか。",
+    "answer": "1444百万m3増え、1990年比56％増です。"
+  },
+  {
+    "question_id": 177,
+    "image type": "テキスト",
+    "image": "bf5ef39c7b695cf66f3263d191b2e2beea598997816e583619b309cdd4870c69_page_004.png",
+    "question": "2015年の林業経営体のうち、家族経営体は約何割ですか。",
+    "answer": "全体の約9割です。"
+  },
+  {
+    "question_id": 178,
+    "image type": "折れ線グラフ",
+    "image": "bf5ef39c7b695cf66f3263d191b2e2beea598997816e583619b309cdd4870c69_page_006.png",
+    "question": "林業従事者の若年者率が最も高いのはいつですか。",
+    "answer": "2010年で、18%です。"
+  },
+  {
+    "question_id": 179,
+    "image type": "折れ線グラフ",
+    "image": "bf5ef39c7b695cf66f3263d191b2e2beea598997816e583619b309cdd4870c69_page_021.png",
+    "question": "林業、木材産業における死傷年千人率は、全産業と比較してどのようになっていますか。",
+    "answer": "林業、木材産業とも全産業を上回っています。特に林業の方が値が大きくなっています。"
+  },
+  {
+    "question_id": 180,
+    "image type": "テキスト",
+    "image": "0b8325a5b5b51869b3654cd5b4b7f6d15d5d22c4af089229d18a1ab1f07e5f26_page_008.png",
+    "question": "星印は何を表していますか。",
+    "answer": "それまでの厳気象年度の値を更新した年度であることを示しています。"
+  },
+  {
+    "question_id": 181,
+    "image type": "表",
+    "image": "0b8325a5b5b51869b3654cd5b4b7f6d15d5d22c4af089229d18a1ab1f07e5f26_page_037.png",
+    "question": "各エリアの1月のH3需要想定方法において日負荷率を用いているエリアはどこですか。",
+    "answer": "北海道、東北、北陸、関西、四国エリアです。"
+  },
+  {
+    "question_id": 182,
+    "image type": "折れ線グラフ",
+    "image": "0b8325a5b5b51869b3654cd5b4b7f6d15d5d22c4af089229d18a1ab1f07e5f26_page_039.png",
+    "question": "2021年の送配電損失率が最も小さい地方はどこですか。",
+    "answer": "北陸地方です。"
+  },
+  {
+    "question_id": 183,
+    "image type": "テキスト",
+    "image": "0b8808dcf631de6454e152ca660ea2f25484243531211ae22f1a04be0f56248d_page_005.png",
+    "question": "eスポーツ市場の全体構成のうちの3つの領域はなんですか。",
+    "answer": "イベント工業を核としたエコシステム領域・エコシステム領域の経済活動からの波及領域・波及領域のさらに外側にある移転領域の3つです。"
+  },
+  {
+    "question_id": 184,
+    "image type": "画像",
+    "image": "0b8808dcf631de6454e152ca660ea2f25484243531211ae22f1a04be0f56248d_page_006.png",
+    "question": "オーディエンス（ファン）からチーム/選手へ流れる寄進は何ですか。",
+    "answer": "投げ銭収入です。"
+  },
+  {
+    "question_id": 185,
+    "image type": "棒グラフ",
+    "image": "fbf5c2fdc14531499e790a68faa1eaf9900cd59793516c734225e3eb8379872f_page_010.png",
+    "question": "「中途採用を強化する」は何%ですか。",
+    "answer": "36.9%です。"
+  },
+  {
+    "question_id": 186,
+    "image type": "棒グラフ",
+    "image": "fbf5c2fdc14531499e790a68faa1eaf9900cd59793516c734225e3eb8379872f_page_010.png",
+    "question": "「人件費の配分」で最もパーセンテージが高いのは何ですか。",
+    "answer": "「年齢に関わりなく能力・成果に応じた登用を進め、正社員の年功賃金割合を小さくする」です。"
+  },
+  {
+    "question_id": 187,
+    "image type": "折れ線グラフ",
+    "image": "fbf5c2fdc14531499e790a68faa1eaf9900cd59793516c734225e3eb8379872f_page_018.png",
+    "question": "在宅勤務（テレワーク）実施率が最も高いのはいつですか。",
+    "answer": "令和2年4月の60.0%で、一度目の緊急事態宣言が発出されたときです。"
+  },
+  {
+    "question_id": 188,
+    "image type": "表",
+    "image": "799d551d17c2f30ff0897e0c6f6fa2916a4760d730ceaf2769640b247ad9d681_page_002.png",
+    "question": "需給調整市場とはどのような役割を持っていますか。",
+    "answer": "ゲートクローズ後の需給ギャップ補填、30分未満の需給変動への対応、周波数維持のための調整力（ΔkW価値＋kWh価値）の取引です。"
+  },
+  {
+    "question_id": 189,
+    "image type": "その他",
+    "image": "799d551d17c2f30ff0897e0c6f6fa2916a4760d730ceaf2769640b247ad9d681_page_006.png",
+    "question": "調整力適正も限界費用も高い発電方法は何ですか。",
+    "answer": "揚水発電です。調整力適正は高いですが限界費用も高いため、市場価格の低下により淘汰されて、結果として必要な調整電源を確保できない問題等が生じています。"
+  },
+  {
+    "question_id": 190,
+    "image type": "テキスト",
+    "image": "799d551d17c2f30ff0897e0c6f6fa2916a4760d730ceaf2769640b247ad9d681_page_014.png",
+    "question": "広域機関の容量市場への関わり方はどのようなものですか。",
+    "answer": "オークションを開催して、落札電源と約低価格を決定します。実需給期間に全ての小売電気事業者から容量拠出金をいただき、発電事業者等（落札電源）に容量確保契約金額を支払います。"
+  },
+  {
+    "question_id": 191,
+    "image type": "表",
+    "image": "799d551d17c2f30ff0897e0c6f6fa2916a4760d730ceaf2769640b247ad9d681_page_023.png",
+    "question": "供給ガイドラインに基づく電源が安定電源なのはどの種別ですか。",
+    "answer": "電源で計量単位が1000kW以上、電源種別が水力、火力、原子力、地熱・バイオマス・廃棄物発電のものです。"
+  },
+  {
+    "question_id": 192,
+    "image type": "表",
+    "image": "2fef00171ce00b4d52ca5b2fe0509c47c1ed730669642df55cbe95963a261d2f_page_005.png",
+    "question": "学習環境に「差がある」と感じたことがある人のうち、理由の第2位は何ですか。",
+    "answer": "経済的な理由で塾や習い事に行けなかったが第2位で、22.6%を占めています。"
+  },
+  {
+    "question_id": 193,
+    "image type": "棒グラフ",
+    "image": "2fef00171ce00b4d52ca5b2fe0509c47c1ed730669642df55cbe95963a261d2f_page_006.png",
+    "question": "学習環境に差があると感じたことがある人のうち、理由の割合として2番目に多かったものは何ですか。",
+    "answer": "経済的な理由で塾や習い事に行けなかったが22.6%で2番目に多い理由となっています。"
+  },
+  {
+    "question_id": 194,
+    "image type": "円グラフ",
+    "image": "2fef00171ce00b4d52ca5b2fe0509c47c1ed730669642df55cbe95963a261d2f_page_008.png",
+    "question": "コロナ禍で学習環境の差が広がったと感じる人と感じない人のどちらが多いですか。",
+    "answer": "感じる人が52.9%で、感じない人が47.1%と、感じる人の方が割合が多いです。"
+  },
+  {
+    "question_id": 195,
+    "image type": "画像",
+    "image": "0ba6c28ab9c96ec5d08e3922be45d0d573c18fe8efe2e5668f04538e41e9672f_page_004.png",
+    "question": "資金移動業者と銀行の間に交わされる契約は何ですか。",
+    "answer": "口座振替契約です。"
+  },
+  {
+    "question_id": 196,
+    "image type": "画像",
+    "image": "b50ecfb7a5b5889b9dea99ba4b2cd86722b3feb8c2cc101f09f2274657216fd5_page_004.png",
+    "question": "分野や機能ごとの多層構造・共同体性、さまざまなリソースを活用することによって懸念されることは何ですか。",
+    "answer": "学び方が時間的・空間的にも多様化すると、学びの体系性や集団としての教育の機能が弱くなる可能性と、学びや活動などの実施主体や責任の所在が不明確になる可能性がある点です。"
+  },
+  {
+    "question_id": 197,
+    "image type": "その他",
+    "image": "b50ecfb7a5b5889b9dea99ba4b2cd86722b3feb8c2cc101f09f2274657216fd5_page_010.png",
+    "question": "教育課程のあり方の見直しにおいて、個別最適な学びと協働的な学びの一体的な充実に向けた学校教育のあり方に関する特区別部会等において基本的な方向性を検討するのはいつですか。",
+    "answer": "2022年から2024年までです。"
+  },
+  {
+    "question_id": 198,
+    "image type": "テキスト",
+    "image": "0bce158313daca0283afff218a2b3e58eee8b89870acc2056590b034bceaae0f_page_031.png",
+    "question": "農産物流の課題は何ですか。",
+    "answer": "物流の担い手不足、輸送費用の増加、中間コストの増加、需給のギャップ、フードロスの発生です。"
+  },
+  {
+    "question_id": 199,
+    "image type": "棒グラフ",
+    "image": "0bce158313daca0283afff218a2b3e58eee8b89870acc2056590b034bceaae0f_page_034.png",
+    "question": "生産者へはどのような情報が来ますか。",
+    "answer": "気象リスク情報が来ることと、加工向上流通事業者や、資材メーカーから対策提案がきます。"
+  },
+  {
+    "question_id": 200,
+    "image type": "棒グラフ",
+    "image": "0be474ae176c9a58bd127c4814f384dd9da302e2df1b72280e6b8955b5b186fe_page_003.png",
+    "question": "中小企業がカーボンニュートラルに取り組んでいない理由として1番多いものは何ですか。",
+    "answer": "何をすればいいかわからないが73.6%で最も多い回答となっています。"
+  },
+  {
+    "question_id": 201,
+    "image type": "表",
+    "image": "0be474ae176c9a58bd127c4814f384dd9da302e2df1b72280e6b8955b5b186fe_page_007.png",
+    "question": "戦略はなんですか。",
+    "answer": "気候変動対応、脱炭素化を「機会」「リスク」の両面から捉え、重要な経営課題として位置付けます。"
+  },
+  {
+    "question_id": 202,
+    "image type": "テキスト",
+    "image": "0c0ce9646ee45b91803f65ff3651bf4a16c624449a0858cff8b602e025c0180f_page_002.png",
+    "question": "つくば市の人口は2036年に何人になる見通しですか。",
+    "answer": "259,000人です。"
+  },
+  {
+    "question_id": 203,
+    "image type": "折れ線グラフ",
+    "image": "0c0ce9646ee45b91803f65ff3651bf4a16c624449a0858cff8b602e025c0180f_page_003.png",
+    "question": "年少人口よりも老年人口が多くなるのはいつですか。",
+    "answer": "2007年ごろです。"
+  },
+  {
+    "question_id": 204,
+    "image type": "画像",
+    "image": "0c0ce9646ee45b91803f65ff3651bf4a16c624449a0858cff8b602e025c0180f_page_004.png",
+    "question": "最も高齢化率が高い地区はどこですか。",
+    "answer": "茎崎地区で、出生率が0.99、高齢化率が37.6%となっています。"
+  },
+  {
+    "question_id": 205,
+    "image type": "画像",
+    "image": "0c0ce9646ee45b91803f65ff3651bf4a16c624449a0858cff8b602e025c0180f_page_014.png",
+    "question": "つくばSDGsパートナーズの役割はなんですか。",
+    "answer": "子供の貧困の解消やまちの活性化、省エネ・再エネなど社会課題の解決をし、持続可能な将来像（SDGsの達成）を目標としています。"
+  },
+  {
+    "question_id": 206,
+    "image type": "画像",
+    "image": "0c133e23b40b5027c5860eec040fd149029b4fb53917bbf8ee3ed65079f73366_page_006.png",
+    "question": "分散化の3類型には何がありますか。",
+    "answer": "リスクテイク、意思決定、記録保持です。"
+  },
+  {
+    "question_id": 207,
+    "image type": "画像",
+    "image": "0c133e23b40b5027c5860eec040fd149029b4fb53917bbf8ee3ed65079f73366_page_013.png",
+    "question": "規制のプロセスはどのようなものですか。",
+    "answer": "1.リスク・規制ゴールの特定　2.規制の設計・策定　3.規制の執行　というプロセスです。規制を作るだけで自動的にゴールを達成することができるわけではなく、執行できて初めて規制ゴールを達成することができます。"
+  },
+  {
+    "question_id": 208,
+    "image type": "画像",
+    "image": "0c133e23b40b5027c5860eec040fd149029b4fb53917bbf8ee3ed65079f73366_page_021.png",
+    "question": "オープンソースエンジニアと規制当局の関係はどのようなものですか。",
+    "answer": "オープンソースエンジニアはより良い技術の開発、社会変革を掲げており、規制当局は規制ゴールを達成する必要があります。この2者は共通言語がなくお互い知らないために規制だけで対処できなかったり、過剰な規制が行われたりしています。"
+  },
+  {
+    "question_id": 209,
+    "image type": "折れ線グラフ",
+    "image": "0c36e98b5e3bc1d16ed19802297afb2dd2870e64608c0f13bcae2a4fcb96763a_page_002.png",
+    "question": "2019年10月のの対米ドルレートについて、2017年1月2日を100としたときに最も低いのはどの国ですか。",
+    "answer": "タイです。"
+  },
+  {
+    "question_id": 210,
+    "image type": "折れ線グラフ",
+    "image": "0c36e98b5e3bc1d16ed19802297afb2dd2870e64608c0f13bcae2a4fcb96763a_page_003.png",
+    "question": "政策金利が最も高い国はどこですか。",
+    "answer": "インドです。"
+  },
+  {
+    "question_id": 211,
+    "image type": "テキスト",
+    "image": "c10e71220b9512f27718287f222e04d38453a4fca1df9aa9b7c155f9b7ca9b5a_page_003.png",
+    "question": "日本の盤メーカーの課題は何ですか。",
+    "answer": "日本における盤メーカのほとんどは中小企業製造業であり、大企業のは労働生産性が向上しているのに対して中小企業は労働生産性が下降しているため、労働生産性の向上が急務です。"
+  },
+  {
+    "question_id": 212,
+    "image type": "テキスト",
+    "image": "c10e71220b9512f27718287f222e04d38453a4fca1df9aa9b7c155f9b7ca9b5a_page_008.png",
+    "question": "５Gの出現によりどのようなことが可能になりましたか。",
+    "answer": "製造現場にイノベーションが起こりつつあります。通信遅延時間が2ms以下となることで、クラウドから現場のAMRを遠隔制御することが可能となりました。"
+  },
+  {
+    "question_id": 213,
+    "image type": "テキスト",
+    "image": "0c8a1ce481bf4fef06057f2f6b61cfd1303ae6fba9a8fcac4d0aa61ce5deeb5f_page_004.png",
+    "question": "2020年から2065年にかけて、高齢化率はどのくらい上がりますか。",
+    "answer": "30%から43%へと13%上昇し、およそ1.5倍になります。"
+  },
+  {
+    "question_id": 214,
+    "image type": "画像",
+    "image": "0c8a1ce481bf4fef06057f2f6b61cfd1303ae6fba9a8fcac4d0aa61ce5deeb5f_page_010.png",
+    "question": "前橋版MaaSでは何を連携していますか。",
+    "answer": "マイナンバーカードとSuicaを連携しています。"
+  },
+  {
+    "question_id": 215,
+    "image type": "棒グラフ",
+    "image": "a4f3bdcbb9a788b27f8020ea93f73fd5b080977156f26992a724d003990c3afc_page_007.png",
+    "question": "売上高が最も高いのはいつですか。",
+    "answer": "FY2024の4Qで、21億8千6百万円です。"
+  },
+  {
+    "question_id": 216,
+    "image type": "棒グラフ",
+    "image": "a4f3bdcbb9a788b27f8020ea93f73fd5b080977156f26992a724d003990c3afc_page_019.png",
+    "question": "FY2024で最も高い営業利益はいくらですか。",
+    "answer": "3Qで、9100万円(91百万円)です。"
+  },
+  {
+    "question_id": 217,
+    "image type": "円グラフ",
+    "image": "a4f3bdcbb9a788b27f8020ea93f73fd5b080977156f26992a724d003990c3afc_page_031.png",
+    "question": "北米の企業のSMS活用について、割合が最も多い用途は何ですか。",
+    "answer": "マーケティングで42.5%を占めています。"
+  },
+  {
+    "question_id": 218,
+    "image type": "画像",
+    "image": "a4f3bdcbb9a788b27f8020ea93f73fd5b080977156f26992a724d003990c3afc_page_040.png",
+    "question": "売上はどのように計算されますか。",
+    "answer": "月間SMS配信数に1通あたりSMS送信単価をかけたものが売上高となります。"
+  },
+  {
+    "question_id": 219,
+    "image type": "棒グラフ",
+    "image": "a4f3bdcbb9a788b27f8020ea93f73fd5b080977156f26992a724d003990c3afc_page_049.png",
+    "question": "自動車販売業務支援システム「symphony」の仕入れ登録でどのくらい工数を減らせますか。",
+    "answer": "車台番号または車のナンバープレートを入力するだけで、メーカー名や車名など150項目以上の情報がセットされるので、わずか30秒で登録ができ、従来の約95%削減可能です。"
+  }
+]
